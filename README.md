@@ -1,2 +1,2 @@
 # awesome-server
-Node + Express + Appollo-Server + GraphQL + PostgreSQL
+Node + Express + Appollo-Server + GraphQL + ArrangoDB
